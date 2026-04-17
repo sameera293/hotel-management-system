@@ -1,4 +1,4 @@
-﻿# [Cloud-Ready Hotel Booking System with CI/CD Pipeline][https://hotel-management-system-one-pi.vercel.app/]
+﻿# [Cloud-Ready Hotel Booking System with CI/CD Pipeline](https://hotel-management-system-one-pi.vercel.app/)
 
 A full-stack hotel management system designed for cloud deployment. The project demonstrates a DevOps-ready workflow with Docker containerization and a GitHub Actions CI pipeline.
 
